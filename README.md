@@ -101,3 +101,6 @@
 49) [Endless procedurally generated podiums on Babylon.js](https://github.com/MakarovDs777/Endless-procedurally-generated-podiums-on-Babylon.js)
 
 50) [Random wallpaper generator on Babylon.js](https://github.com/MakarovDs777/Random-wallpaper-generator-on-Babylon.js)
+
+51) [An endless carpet of Unicode character height maps on Babylon.js](https://github.com/MakarovDs777/An-endless-carpet-of-Unicode-character-height-maps-on-Babylon.js/blob/main/README.md)
+
