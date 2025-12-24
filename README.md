@@ -4,9 +4,9 @@
  
 1) [An endless carpet of Unicode character height maps on Babylon.js](https://github.com/MakarovDs777/An-endless-carpet-of-Unicode-character-height-maps-on-Babylon.js/blob/main/README.md)
 
-2) [Makarov retopology on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-on-Babylon.js)
+2) [An endless procedurally generated carpet of pictures on Babylon.js!](https://github.com/MakarovDs777/An-endless-procedurally-generated-carpet-of-pictures-on-Babylon.js)
    
-3) [Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js)
+3) [Array of objects in a circle as in blender on babylon.js!](https://github.com/MakarovDs777/Array-of-objects-in-a-circle-as-in-blender-on-babylon.js)
 
 4) [Teleport on Babylon.js](https://github.com/MakarovDs777/Teleport-on-Babylon.js/blob/main/README.md)
 
@@ -14,13 +14,13 @@
 
 6) [3D Texture viewer](https://github.com/MakarovDs777/3D-Texture-viewer-online-on-Babylon.js-Makarov-version)
 
-7) [Array of objects in a circle as in blender on babylon.js!](https://github.com/MakarovDs777/Array-of-objects-in-a-circle-as-in-blender-on-babylon.js)
+7) [Lloyd relaxation on Babylon.js!](https://github.com/MakarovDs777/Lloyd-relaxation-online-on-Babylon.js)
 
 8) [Creating architecture from a picture! Turn an image into an structure (Makarov version)](https://github.com/MakarovDs777/Creating-architecture-from-a-picture-online-Turn-an-image-into-an-structure-Makarov-version)
 
 9) [XYZ sitesticks Virtual Joystick on Babylon.js Makarov version](https://github.com/MakarovDs777/XYZ-sitesticks-Virtual-Joystick-on-Babylon.js-Makarov-version)
 
-10) [An endless procedurally generated carpet of pictures on Babylon.js!](https://github.com/MakarovDs777/An-endless-procedurally-generated-carpet-of-pictures-on-Babylon.js)
+10) [Makarov retopology on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-on-Babylon.js)
 
 11) [Delaunay triangulation 3D on Babylon.js!](https://github.com/MakarovDs777/Delaunay-triangulation-3D-online-on-Babylon.js)
 
