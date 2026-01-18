@@ -34,7 +34,7 @@
 
 17) [Endless Lava Lamp on Babylon.js](https://github.com/MakarovDs777/Endless-Lava-Lamp)
 
-18) [Endless procedural image generation on Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-image-generation-on-Babylon.js-)
+18) [Endless procedural image generation on Babylon.js!](https://github.com/MakarovDs777/Endless-procedural-image-generation-on-Babylon.js)
 
 19) [Endless procedurally generated maps from pictures on Babylon.js](https://github.com/MakarovDs777/Endless-procedurally-generated-maps-from-pictures-on-Babylon.js/blob/main/README.md)
 
