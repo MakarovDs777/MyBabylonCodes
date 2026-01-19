@@ -114,4 +114,3 @@
 
 60) [Pseudovolumetrica on Babylon.js](https://github.com/MakarovDs777/Pseudovolumetrica-on-Babylon.js)
 
-61) 
