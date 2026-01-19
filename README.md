@@ -10,7 +10,7 @@
 
 4) [Automatic random camera movement on Babylon.js](https://github.com/MakarovDs777/Automatic-random-camera-movement-on-Babylon.js/blob/main/README.md)
 
-5) [Babylonjs Fractals The Pythagorean Tree](https://github.com/MakarovDs777/Babylonjs-Fractals-The-Pythagorean-Tree-/blob/main/README.md)
+5) [Babylonjs Fractals The Pythagorean Tree](https://github.com/MakarovDs777/Babylonjs-Fractals-The-Pythagorean-Tree/blob/main/README.md)
 
 6) [Converter of a list of vertices and faces to a OBJ model on babylon.js](https://github.com/MakarovDs777/Converter-of-a-list-of-vertices-and-faces-to-a-OBJ-model-on-babylon.js/blob/main/README.md)
 
