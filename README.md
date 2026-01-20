@@ -112,5 +112,5 @@
 
 59) [Uploading audio button on Babylon.js](https://github.com/MakarovDs777/Uploading-Audio-button-on-Babylon.js/blob/main/README.md)
 
-60) [Pseudovolumetrica on Babylon.js](https://github.com/MakarovDs777/Pseudovolumetrica-on-Babylon.js)
+60) 
 
