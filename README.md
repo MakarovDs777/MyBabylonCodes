@@ -18,7 +18,7 @@
 
 8) [Delaunay triangulation 3D on Babylon.js!](https://github.com/MakarovDs777/Delaunay-triangulation-3D-online-on-Babylon.js)
 
-10) [Disco Cube on Babylon.js](https://github.com/MakarovDs777/Disco-Cube-on-Babylon.js/blob/main/README.md)
+9) [Disco Cube on Babylon.js](https://github.com/MakarovDs777/Disco-Cube-on-Babylon.js/blob/main/README.md)
 
 11) [Dragging the vertex of an OBJ as in edit mode in blender on Babylon.js](https://github.com/MakarovDs777/Dragging-the-vertex-of-an-OBJ-as-in-edit-mode-in-blender-on-Babylon.js/blob/main/README.md)
 
