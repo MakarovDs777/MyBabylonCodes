@@ -76,7 +76,7 @@
     
 37) [Makarov retopology on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-on-Babylon.js)
 
-38) [Voronoi-3D-on-Babylon.js/README.md at main · MakarovDs777/Voronoi-3D-on-Babylon.js](https://github.com/MakarovDs777/Voronoi-3D-on-Babylon.js/blob/main/README.md)
+38) [Voronoi 3D on Babylon.js](https://github.com/MakarovDs777/Voronoi-3D-on-Babylon.js/blob/main/README.md)
 
 39) [View all URLs images on Babylon.js](https://github.com/MakarovDs777/View-all-URLs-images-on-Babylon.js/blob/main/README.md)  
 
