@@ -50,7 +50,7 @@
   
 24) [Superimpose lines on planes around an object on Babylon.js](https://github.com/MakarovDs777/Superimpose-lines-on-planes-around-an-object-on-Babylon.js/blob/main/README.md)
 
-25) [Homer’s Endless Dream](https://github.com/MakarovDs777/Homer-s-Endless-Dream-on-Babylon.js)
+25) [The structure of the isorface by mask online on Babylon.js](https://github.com/MakarovDs777/The-structure-of-the-isorface-by-mask-online-on-Babylon.js/blob/main/README.md)
 
 26) [The gizmo creation button on Babylon.js](https://github.com/MakarovDs777/The-gizmo-creation-button-on-Babylon.js)
 
@@ -117,3 +117,5 @@
 57) [XYZ sitesticks Virtual Joystick on Babylon.js Makarov version](https://github.com/MakarovDs777/XYZ-sitesticks-Virtual-Joystick-on-Babylon.js-Makarov-version)
     
 58) [Quantum foam on Babylon.js!](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
+
+59) [Homer’s Endless Dream](https://github.com/MakarovDs777/Homer-s-Endless-Dream-on-Babylon.js)
