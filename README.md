@@ -44,7 +44,7 @@
 
 21) [Exploding OBJ into pieces on Babylon.js](https://github.com/MakarovDs777/Exploding-OBJ-into-pieces-on-Babylon.js/blob/main/README.md)
 
-22) [linking an image to the spotlight of an object on an object spotlights images projectors images](https://github.com/MakarovDs777/linking-an-image-to-the-spotlight-of-an-object-on-an-object-spotlights-images-projectors-images/blob/main/README.md)
+22) [Endless procedural XYZ map of isorfaces on Babylon.js](https://github.com/MakarovDs777/Endless-procedural-XYZ-map-of-isorfaces-on-Babylon.js/blob/main/README.md)
 
 23) [GIF equalizer Makarov version on Babylon.js](https://github.com/MakarovDs777/GIF-equalizer-Makarov-version-on-Babylon.js/blob/main/README.md)
   
@@ -119,3 +119,5 @@
 58) [Quantum foam on Babylon.js!](https://github.com/MakarovDs777/Quantum-foam-generator-online-on-babylon.js)
 
 59) [Homer’s Endless Dream](https://github.com/MakarovDs777/Homer-s-Endless-Dream-on-Babylon.js)
+
+60) [linking an image to the spotlight of an object on an object spotlights images projectors images](https://github.com/MakarovDs777/linking-an-image-to-the-spotlight-of-an-object-on-an-object-spotlights-images-projectors-images/blob/main/README.md)
