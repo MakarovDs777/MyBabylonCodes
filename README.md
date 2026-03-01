@@ -30,7 +30,7 @@
 
 14) [Endless sketchfab online on Babylon.js](https://github.com/MakarovDs777/Endless-sketchfab-online-on-Babylon.js)
 
-15) [Endless Painting on Babylon.js](https://github.com/MakarovDs777/Endless-Painting-on-Babylon.js)
+15) [Endless 3D Painting on Babylon.js](https://github.com/MakarovDs777/Endless-Painting-3D-on-Babylon.js)
 
 16) [Endless Lava Lamp on Babylon.js](https://github.com/MakarovDs777/Endless-Lava-Lamp)
 
