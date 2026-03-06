@@ -125,3 +125,5 @@
 61) [Mutator OBJ on Babylon.js](https://github.com/MakarovDs777/Mutator-OBJ-online-on-Babylon.js/tree/main) 
 
 62) [EVP online on Babylon.js](https://github.com/MakarovDs777/EVP-on-Babylon.js/blob/main/README.md)
+
+63) [The motion of the balls along the current curves on Babylon js](https://github.com/MakarovDs777/The-motion-of-the-balls-along-the-current-curves-on-Babylon-js/blob/main/README.md)
