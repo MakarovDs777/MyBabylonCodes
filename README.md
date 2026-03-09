@@ -129,3 +129,5 @@
 63) [The motion of the balls along the current curves on Babylon.js](https://github.com/MakarovDs777/The-motion-of-the-balls-along-the-current-curves-on-Babylon-js/blob/main/README.md)
 
 64) [Digital Skies on Babylon.js](https://github.com/MakarovDs777/Digital-Skies-on-Babylon.js/blob/main/README.md)
+
+65) [EVP sphere online on Babylon.js](https://github.com/MakarovDs777/EVP-sphere-online-on-Babylon.js/blob/main/README.md)
