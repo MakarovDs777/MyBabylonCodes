@@ -131,3 +131,5 @@
 64) [Digital Skies on Babylon.js](https://github.com/MakarovDs777/Digital-Skies-on-Babylon.js/blob/main/README.md)
 
 65) [EVP sphere online on Babylon.js](https://github.com/MakarovDs777/EVP-sphere-online-on-Babylon.js/blob/main/README.md)
+
+66) [EVP generator OBJ sphere on Babylon.js](https://github.com/MakarovDs777/EVP-generator-OBJ-sphere-on-Babylon.js/blob/main/README.md)
