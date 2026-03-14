@@ -135,3 +135,5 @@
 66) [EVP generator OBJ sphere on Babylon.js](https://github.com/MakarovDs777/EVP-generator-OBJ-sphere-on-Babylon.js/blob/main/README.md)
 
 67) [EVP text sphere on Babylon.js](https://github.com/MakarovDs777/EVP-text-sphere-on-Babylon.js/blob/main/README.md)
+
+68) [Lines with balls on masks on Babylon.js](https://github.com/MakarovDs777/Lines-with-balls-on-masks-on-Babylon.js/blob/main/README.md)
