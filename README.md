@@ -137,3 +137,6 @@
 67) [EVP text sphere on Babylon.js](https://github.com/MakarovDs777/EVP-text-sphere-on-Babylon.js/blob/main/README.md)
 
 68) [Lines with balls on masks on Babylon.js](https://github.com/MakarovDs777/Lines-with-balls-on-masks-on-Babylon.js/blob/main/README.md)
+
+69) [Creating a web of lines on Babylon.js](https://github.com/MakarovDs777/Creating-a-web-of-lines-on-Babylon.js)
+    
