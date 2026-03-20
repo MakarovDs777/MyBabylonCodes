@@ -60,7 +60,7 @@
 
 29) [The scatter addon is like in blender only on Babylon.js](https://github.com/MakarovDs777/The-scatter-addon-is-like-in-blender-only-on-Babylon.js)
 
-30) [The estimneited structure generator online! OBJ download!](https://github.com/MakarovDs777/The-estimneited-structure-generator-online-on-Babylon.js/blob/main/README.md)
+30) [The estimneited structure generator online on Babylon.js](https://github.com/MakarovDs777/The-estimneited-structure-generator-online-on-Babylon.js/blob/main/README.md)
 
 31) [Makarov retopology game on Babylon.js](https://github.com/MakarovDs777/Makarov-retopology-game-on-Babylon.js)
    
