@@ -143,3 +143,7 @@
 70) [Drag and Drop Makarov version on Babylon.js](https://github.com/MakarovDs777/Drag-and-Drop-Makarov-version-on-Babylon.js)
 
 71) [Symbols on masks on Babylon.js](https://github.com/MakarovDs777/Symbols-on-masks-on-Babylon.js/blob/main/README.md)
+
+72) [EVP box drawing 2D in 3D on Babylon.js](https://github.com/MakarovDs777/EVP-box-drawing-2D-in-3D-on-Babylon.js/blob/main/README.md)
+
+    
