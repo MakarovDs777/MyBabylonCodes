@@ -146,4 +146,4 @@
 
 72) [EVP box drawing 2D in 3D on Babylon.js](https://github.com/MakarovDs777/EVP-box-drawing-2D-in-3D-on-Babylon.js/blob/main/README.md)
 
-    
+73) [Photographing textures via gizmo on Babylon.js](https://github.com/MakarovDs777/Photographing-textures-via-gizmo-on-Babylon.js/blob/main/README.md)
