@@ -151,3 +151,5 @@
 74) [Spiral text on Babylon.js](https://github.com/MakarovDs777/Spiral-text-on-Babylon.js/blob/main/README.md)
 
 75) [Astrology 3D on Babylon.js](https://github.com/MakarovDs777/Astrology-3D-on-Babylon.js/blob/main/README.md)
+
+76) [Generating random animated structures 3D on Babylon.js](https://github.com/MakarovDs777/Generating-random-animated-structures-3D-on-Babylon.js/blob/main/README.md)
