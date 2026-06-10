@@ -155,3 +155,5 @@
 76) [Generating random animated structures 3D on Babylon.js](https://github.com/MakarovDs777/Generating-random-animated-structures-3D-on-Babylon.js/blob/main/README.md)
 
 77) [Fragment by fragment image loading on Babylon.js](https://github.com/MakarovDs777/Fragment-by-fragment-image-loading-on-Babylon.js/blob/main/README.md)
+
+78) [Star Wars Text on Babylon.js](https://github.com/MakarovDs777/Star-Wars-Text-on-Babylon.js/blob/main/README.md)
