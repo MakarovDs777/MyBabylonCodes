@@ -157,3 +157,5 @@
 77) [Fragment by fragment image loading on Babylon.js](https://github.com/MakarovDs777/Fragment-by-fragment-image-loading-on-Babylon.js/blob/main/README.md)
 
 78) [Star Wars Text on Babylon.js](https://github.com/MakarovDs777/Star-Wars-Text-on-Babylon.js/blob/main/README.md)
+
+79) [Book Reader Makarov Version on Babylon.js](https://github.com/MakarovDs777/Book-Reader-Makarov-Version-on-Babylon.js/blob/main/README.md)
