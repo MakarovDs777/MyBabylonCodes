@@ -161,3 +161,6 @@
 79) [Book Makarov Version on Babylon.js](https://github.com/MakarovDs777/Book-Reader-Makarov-Version-on-Babylon.js/blob/main/README.md)
 
 80) [Strange animation patterns on Babylon.js](https://github.com/MakarovDs777/Strange-animation-patterns-on-Babylon.js)
+
+81) [Text Statistics on Babylon.js](https://github.com/MakarovDs777/Text-Statistics-on-Babylon.js)
+
