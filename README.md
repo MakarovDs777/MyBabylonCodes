@@ -165,3 +165,5 @@
 81) [Text Statistics on Babylon.js](https://github.com/MakarovDs777/Text-Statistics-on-Babylon.js)
 
 82) [Solar system online on Babylon.js](https://github.com/MakarovDs777/Solar-system-online-on-Babylon.js/blob/main/README.md)
+
+83) [Calculator on Babylon.js](https://github.com/MakarovDs777/Calculator-on-Babylon.js/blob/main/README.md)
