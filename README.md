@@ -169,3 +169,5 @@
 83) [Calculator on Babylon.js](https://github.com/MakarovDs777/Calculator-on-Babylon.js/blob/main/README.md)
 
 84) [Text with pictures by masks on Babylon.js](https://github.com/MakarovDs777/Text-with-pictures-by-masks-on-Babylon.js/blob/main/README.md)
+
+85) [Circle Packing on Babylon.js](https://github.com/MakarovDs777/Circle-Packing-on-Babylon.js/blob/main/README.md)
