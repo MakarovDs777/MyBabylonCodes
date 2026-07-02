@@ -175,3 +175,5 @@
 86) [Drawing on a image on Babylon.js](https://github.com/MakarovDs777/Drawing-on-a-image-on-Babylon.js)
 
 87) [Cut the image into pieces on Babylon.js](https://github.com/MakarovDs777/Cut-the-image-into-pieces-on-Babylon.js/blob/main/README.md)
+
+88) [ASCII on Babylon.js](https://github.com/MakarovDs777/ASCII-on-Babylon.js/blob/main/README.md)
