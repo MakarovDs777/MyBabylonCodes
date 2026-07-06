@@ -179,3 +179,5 @@
 88) [ASCII on Babylon.js](https://github.com/MakarovDs777/ASCII-on-Babylon.js/blob/main/README.md)
 
 89) [Image with a scratch layer on Babylon.js](https://github.com/MakarovDs777/Image-with-a-scratch-layer-on-Babylon.js/blob/main/README.md)
+
+90) [ASCII video on Babylon.js](https://github.com/MakarovDs777/ASCII-video-on-Babylon.js/blob/main/README.md)
