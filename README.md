@@ -185,3 +185,5 @@
 91) [Cubik Rubik on Babylon.js](https://github.com/MakarovDs777/Cubik-Rubik-3D-Online-on-Babylon.js/blob/main/README.md)
 
 92) [LZW image generator on Babylon.js](https://github.com/MakarovDs777/LZW-image-generator-on-Babylon.js/blob/main/README.md)
+
+92) [Pixel by pixel appearance of the image on Babylon.js](https://github.com/MakarovDs777/Pixel-by-pixel-appearance-of-the-image-on-Babylon.js/blob/main/README.md)
