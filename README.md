@@ -191,3 +191,5 @@
 93) [Creating a carpet of different sizes from pictures on Babylon.js](https://github.com/MakarovDs777/Creating-a-carpet-of-different-sizes-from-pictures-on-Babylon.js/blob/main/README.md)
 
 94) [Random Base64 generator on Babylon.js](https://github.com/MakarovDs777/Random-Base64-generator-on-Babylon.js/blob/main/README.md)
+
+95) [LZW GIF generator on Babylon.js](https://github.com/MakarovDs777/LZW-GIF-generator-on-Babylon.js/blob/main/README.md)
