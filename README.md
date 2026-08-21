@@ -193,3 +193,5 @@
 94) [Random Base64 generator on Babylon.js](https://github.com/MakarovDs777/Random-Base64-generator-on-Babylon.js/blob/main/README.md)
 
 95) [LZW GIF generator on Babylon.js](https://github.com/MakarovDs777/LZW-GIF-generator-on-Babylon.js/blob/main/README.md)
+
+96) [Random words based on masks XYZ on Babylon.js](https://github.com/MakarovDs777/Random-words-based-on-masks-XYZ-on-Babylon.js/blob/main/README.md)
