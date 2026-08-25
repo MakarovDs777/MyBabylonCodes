@@ -195,3 +195,5 @@
 95) [LZW GIF generator on Babylon.js](https://github.com/MakarovDs777/LZW-GIF-generator-on-Babylon.js/blob/main/README.md)
 
 96) [Random words based on masks XYZ on Babylon.js](https://github.com/MakarovDs777/Random-words-based-on-masks-XYZ-on-Babylon.js/blob/main/README.md)
+
+97) [Random video mosaic generator on Babylon.js](https://github.com/MakarovDs777/Random-video-mosaic-generator-on-Babylon.js/blob/main/README.md)
