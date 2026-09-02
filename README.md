@@ -197,3 +197,5 @@
 96) [Random words based on masks XYZ on Babylon.js](https://github.com/MakarovDs777/Random-words-based-on-masks-XYZ-on-Babylon.js/blob/main/README.md)
 
 97) [Random video mosaic generator on Babylon.js](https://github.com/MakarovDs777/Random-video-mosaic-generator-on-Babylon.js/blob/main/README.md)
+
+98) [Huffman image generator on Babylon.js](https://github.com/MakarovDs777/Huffman-image-generator-on-Babylon.js/blob/main/README.md)
