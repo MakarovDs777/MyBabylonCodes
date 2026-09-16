@@ -199,3 +199,5 @@
 97) [Random video mosaic generator on Babylon.js](https://github.com/MakarovDs777/Random-video-mosaic-generator-on-Babylon.js/blob/main/README.md)
 
 98) [Huffman image generator on Babylon.js](https://github.com/MakarovDs777/Huffman-image-generator-on-Babylon.js/blob/main/README.md)
+
+99) [The singularity of random images on Babylon.js](https://github.com/MakarovDs777/The-singularity-of-random-images-on-Babylon.js/blob/main/README.md)
