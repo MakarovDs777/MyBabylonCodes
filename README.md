@@ -201,3 +201,5 @@
 98) [Huffman image generator on Babylon.js](https://github.com/MakarovDs777/Huffman-image-generator-on-Babylon.js/blob/main/README.md)
 
 99) [The singularity of random images on Babylon.js](https://github.com/MakarovDs777/The-singularity-of-random-images-on-Babylon.js/blob/main/README.md)
+
+100) [Drawing with an image on an infinite canvas 3D on Babylon.js](https://github.com/MakarovDs777/Drawing-with-an-image-on-an-infinite-canvas-3D-on-Babylon.js/blob/main/README.md)
