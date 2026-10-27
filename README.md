@@ -203,3 +203,5 @@
 99) [The singularity of random images on Babylon.js](https://github.com/MakarovDs777/The-singularity-of-random-images-on-Babylon.js/blob/main/README.md)
 
 100) [Drawing with an image on an infinite canvas 3D on Babylon.js](https://github.com/MakarovDs777/Drawing-with-an-image-on-an-infinite-canvas-3D-on-Babylon.js/blob/main/README.md)
+
+101) [Picture-in-picture visibility box on Babylon.js](https://github.com/MakarovDs777/Picture-in-picture-visibility-box-on-Babylon.js/blob/main/README.md)
